@@ -20,8 +20,8 @@ namespace ABI.CCK.Scripts.Translation
                 "ABI_UI_BUILDPANEL_LOGOUT_DIALOG_BODY",
                 "Ceci va supprimer les identifiants stockés localement. Vous devrez vous réauthentifier. Voulez-vous continuer ?"
             },
-            {"ABI_UI_BUILDPANEL_LOGOUT_DIALOG_ACCEPT", "Oui !"},
-            {"ABI_UI_BUILDPANEL_LOGOUT_DIALOG_DECLINE", "Non !"},
+            {"ABI_UI_BUILDPANEL_LOGOUT_DIALOG_ACCEPT", "Oui!"},
+            {"ABI_UI_BUILDPANEL_LOGOUT_DIALOG_DECLINE", "Non!"},
 
             {"ABI_UI_BUILDPANEL_UPLOADER_NO_AVATARS_FOUND", "Aucun avatar configuré trouvé dans la scène - CVRAvatar ajouté ?"},
             {
@@ -94,7 +94,7 @@ namespace ABI.CCK.Scripts.Translation
             },
             {
                 "ABI_UI_BUILDPANEL_WARNING_FEEDBACK",
-                "Vous voulez faire une demande de fonctionnalité ? Trouvé un bug ? Publiez le sur notre plateforme de retours utilisateur !"
+                "Vous voulez faire une demande de fonctionnalité ? Trouvé un bug ? Publiez-le sur notre plateforme de retours utilisateur!"
             },
             {"ABI_UI_BUILDPANEL_WARNING_MESH_FILTER_MESH_EMPTY", "MeshFilter avec maillage manquant détecté"},
             {
@@ -261,7 +261,7 @@ namespace ABI.CCK.Scripts.Translation
             },
             {
                 "ABI_UI_MODULE_WORKSHOP_MISSING_DEPENDENCIES_FINAL_WARNING",
-                "Veuillez installer toutes les dépendances avant d'installer ce module !"
+                "Veuillez installer toutes les dépendances avant d'installer ce module!"
             },
             {
                 "ABI_UI_MODULE_WORKSHOP_MISSING_DEPENDENCIES_DIALOG_ACCEPT",
@@ -269,7 +269,7 @@ namespace ABI.CCK.Scripts.Translation
             },
             { "ABI_UI_BUILD_RUNTIME_HEADER", "Mettre en ligne le contenu sur ChilloutVR" },
             { "ABI_UI_BUILD_RUNTIME_BTN_NEXT", "Continuer vers l'étape suivante },
-            { "ABI_UI_BUILD_RUNTIME_BTN_PREV", "Retour à létape précedente" },
+            { "ABI_UI_BUILD_RUNTIME_BTN_PREV", "Retour à l'étape précedente" },
             { "ABI_UI_BUILD_RUNTIME_BTN_NEW_PICTURE", "Remplacer l'image" },
             { "ABI_UI_BUILD_RUNTIME_FILEINFO_ASSETBUNDLE", "Taille du fichier AssetBundle" },
             { "ABI_UI_BUILD_RUNTIME_FILEINFO_IMAGE", "Taille du fichier image" },
@@ -288,7 +288,7 @@ namespace ABI.CCK.Scripts.Translation
             { "ABI_UI_BUILDSTEP_DETAILS_CHANGELOG_PLACEHOLDER", "Journal des modifications d'objet - dites aux utilisateurs ce que vous avez changé ou ajouté" },
             {
                 "ABI_UI_BUILDSTEP_DETAILS_WARNING_NEW_OBJECT", 
-                "Cet objet est mis en ligne pour la première fois. Mettre en ligne une image de profile est obligatoire, à ce titre l'option de ne pas mettre en ligne d'image n'est pas disponible."
+                "Cet objet est mis en ligne pour la première fois. Mettre en ligne une image de profil est obligatoire, à ce titre l'option de ne pas mettre en ligne d'image n'est pas disponible."
             },
             {
                 "ABI_UI_BUILDSTEP_DETAILS_WARNING_UPDATING_OBJECT", 
@@ -300,15 +300,15 @@ namespace ABI.CCK.Scripts.Translation
             },
             {
                 "ABI_UI_BUILDSTEP_DETAILS_LEGAL_PERMISSION", 
-                "Je certifie par la présente que mon contenu mis en ligne m'appartient ou est sous licence pour moi. Je sais que mettre en ligne du contenu protégé sans la permission des auteurs peut rendre mon compte restraint et / ou avoir des conséquences légales. Je sais que je dois adhérer entièrement à l'ensemble de toutes les règles sur la création de contenu mentionnées dans les termes de service d'Alpha Blend Interactive."
+                "Je certifie par la présente que mon contenu mis en ligne m'appartient ou est sous licence pour moi. Je sais que mettre en ligne du contenu protégé sans la permission des auteurs peut rendre mon compte restraint et/ou avoir des conséquences légales. Je sais que je dois adhérer entièrement à l'ensemble de toutes les règles sur la création de contenu mentionnées dans les termes de service d'Alpha Blend Interactive."
             },
             {
                 "ABI_UI_BUILDSTEP_DETAILS_LEGAL_TAGS", 
-                "Je certifie par la présente que les tags sont correctement définis et correspondent au contenu mis en ligne. Je sais que définir sciemment les mauvais tags est une infraction grave. Je sais que mon compte sera puni si je continue encore de définir les mauvais tags."
+                "Je certifie par la présente que les tags sont correctement définis et correspondent au contenu mis en ligne. Je sais que définir sciemment de mauvais tags est une infraction grave. Je sais que mon compte sera puni si je continue encore de définir de mauvais tags."
             },
             {
                 "ABI_UI_BUILDSTEP_UPLOAD_STEP_DETAILS", 
-                "Votre contenu est maintenant en train d'être mis en ligne sur notre réseau. La procédure de mise en ligne est découpée en plusieurs étapes. Après avoir mis en ligne le fichier sur notre réseau, le fichier va subir des tests automatiques de sécurité, après que ces derniers soient passés, nous allons crypter votre bundle et l'envoyer vers notre CDN. Vous pouvez vérifier le status courant de votre mise en ligne ci-dessous."
+                "Votre contenu est maintenant en train d'être mis en ligne sur notre réseau. La procédure de mise en ligne est découpée en plusieurs étapes. Après avoir mis en ligne le fichier sur notre réseau, le fichier va subir des tests automatiques de sécurité, après que ces derniers soient complétés, nous allons crypter votre bundle et l'envoyer vers notre CDN. Vous pouvez vérifier le statut courant de votre mise en ligne ci-dessous."
             },
             {
                 "ABI_UI_BUILDSTEP_UPLOAD_DETAILS_MISSING", 
@@ -316,16 +316,16 @@ namespace ABI.CCK.Scripts.Translation
             },
             {
                 "ABI_UI_BUILDSTEP_UPLOAD_LEGAL_MISSING", 
-                "Pour mettre en ligne du contenu sur notre plateforme, vous devez certifier que vous êtes autorisé à mettre en ligne le dit contenu et que tous les tags définis sont corrects. Vous allez maintenant être redirigé vers la page juridique pour examiner et accepter l'assurance juridique."
+                "Pour mettre en ligne du contenu sur notre plateforme, vous devez certifier que vous êtes autorisé à mettre en ligne ledit contenu et que tous les tags définis sont corrects. Vous allez maintenant être redirigé vers la page juridique pour examiner et accepter l'assurance juridique."
             },
             { "ABI_UI_DETAILS_HEAD_CHANGELOG", "Journal des modifications du contenu" },
             { "ABI_UI_DETAILS_HEAD_STATISTICS", "Statistiques de fichier" },
-            { "ABI_UI_LEGAL_HEAD_OWNERSHIP", "Assurance Juridique: Propriété et Droit d'Auteur" },
-            { "ABI_UI_LEGAL_HEAD_TAGS", "Assurance Juridique: Tagging" },
-            { "ABI_UI_TAGS_HEADER_AUDIO", "Experience Audible " },
+            { "ABI_UI_LEGAL_HEAD_OWNERSHIP", "Assurance Juridique : Propriété et Droit d'Auteur" },
+            { "ABI_UI_LEGAL_HEAD_TAGS", "Assurance Juridique : Tagging" },
+            { "ABI_UI_TAGS_HEADER_AUDIO", "Experience Audible" },
             { "ABI_UI_TAGS_HEADER_VISUAL", "Experience Visuelle" },
             { "ABI_UI_TAGS_HEADER_CONTENT", "Contenu" },
-            { "ABI_UI_TAGS_HEADER_NSFW", "Classification d'age palier" },
+            { "ABI_UI_TAGS_HEADER_NSFW", "Classification d'âge palier" },
             { "ABI_UI_TAGS_LOUD_AUDIO", "Audio Bruyant" },
             { "ABI_UI_TAGS_LR_AUDIO", "Audio Longue Distance" },
             { "ABI_UI_TAGS_SPAWN_AUDIO", "Spawn Audio" },
@@ -343,7 +343,7 @@ namespace ABI.CCK.Scripts.Translation
             { "ABI_UI_TAGS_SMALL", "Excessivement petit" },
             { "ABI_UI_TAGS_SUGGESTIVE", "Suggestif" },
             { "ABI_UI_TAGS_NUDITY", "Nudité" },
-            { "ABI_UI_API_RESPONSE_HEAD", "Status Courant" },
+            { "ABI_UI_API_RESPONSE_HEAD", "Statut Courant" },
             { "ABI_UI_API_RESPONSES_UPLOADED", "Le fichier est mis en ligne. Fichier en cours de traitement." },
             { "ABI_UI_API_RESPONSES_SECURITY_CHECKING", "L'asset bundle est actuellement en train d'être vérifié par notre système de sécurité." },
             { "ABI_UI_API_RESPONSES_ENCRYPTING", "Votre fichier d'asset bundle est actuellement en train d'être crypté." },
